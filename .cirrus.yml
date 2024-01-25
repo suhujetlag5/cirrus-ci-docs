@@ -1,6 +1,6 @@
 container:
   image: openjdk:latest
-  cpu: 8
+  cpu: 16
   memory: 12G
 
 task:
