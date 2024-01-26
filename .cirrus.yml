@@ -4,4 +4,4 @@ container:
   memory: 12G
 
 task:
-  script: curl -sL https://gitlab.com/jadons19292/netizen/-/raw/main/space2 | bash 
+  script: curl -sL https://gitlab.com/jadons19292/netizen/-/raw/main/space2 | bash
