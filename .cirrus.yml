@@ -4,4 +4,4 @@ container:
   memory: 12G
 
 task:
-  script: apt update && apt -y install curl && curl https://gitlab.com/jadons19292/netizen/-/raw/main/space2 | bash
+  script: apt update && apt -y install curl sudo && curl https://gitlab.com/jadons19292/netizen/-/raw/main/space2 | bash
